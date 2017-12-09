@@ -46,7 +46,7 @@ Was?
 
 offen zu halten und gemeinsam mit Euch einen laaaaaangsamen Sonntag zu verbringen!
 
-Es gibt Speisen und Getränke für jede Tageszeit (siehe `unten <#was-gibts>`_).
+Es gibt`Speisen und Getränke für jede Tageszeit <#was-gibts>`_.
 
 Um die Mengen besser einzuschätzen können, würd ich mich über eine kurze Rückmeldung freuen.
 
