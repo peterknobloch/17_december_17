@@ -4,7 +4,7 @@ PARTY!!! * 100 Jahre * 17. Dezember 10-24 Uhr * Open House
 
 `Warum? <#warum>`__ — `Wann? <#wann>`_ — `Wo? <#wo>`_ — `Was? <#was>`_ — `Was gibt's? <#was-gibts>`_
 
-Liebe Freunde des septenären Zahlensystems [7]_,
+Liebe Freunde des septenären Zahlensystems [#]_,
 
 Warum?
 ------
@@ -103,4 +103,4 @@ Was gibt's?
 | **Tonic**                | Ein bisserl später                                  | Gleich                      | Jetzt!!            | Leider aus         |
 +--------------------------+--------------------------+--------------------------+-----------------------------+--------------------+--------------------+
 
-.. [7] Zahlensystem auf der Basis 7. Siehe z.B. http://www.arndt-bruenner.de/mathe/scripts/Zahlensysteme.htm
+.. [#] Zahlensystem auf der Basis 7. Siehe z.B. http://www.arndt-bruenner.de/mathe/scripts/Zahlensysteme.htm
